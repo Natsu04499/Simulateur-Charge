@@ -1,0 +1,14 @@
+#CAmarchandise {
+    display: flex;
+    flex-direction: column;
+}
+
+#CAprestationprof {
+    display: flex;
+    flex-direction: column;
+}
+
+#CAprestationcommercial {
+    display: flex;
+    flex-direction: column;
+}
